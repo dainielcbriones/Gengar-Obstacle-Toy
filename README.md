@@ -28,3 +28,4 @@ A Gengar-inspired tabletop obstacle detection toy powered by a TRIOE ESP32-S3. I
 
 • 3D-Printed Enclosure – Features a custom-designed enclosure that houses the electronics and gives the project its Gengar-inspired appearance.
 
+# 
